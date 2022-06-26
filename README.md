@@ -1,5 +1,4 @@
 # colorhole3dclone
-Color Hole 3D Clone for Good Job Games
 
 Scriptlerin içerisine bolca kodu açıklayan yorum satırları koydum fakat aşağıdada Unity projesinde olan organizasyon olsun, obje adları olsun, yaptığım öğeleri açıklayan notlar bırakıyorum. Eğer inceleyen teknik takımada bu notları gösterebilirsek çok sevinirim.
 
