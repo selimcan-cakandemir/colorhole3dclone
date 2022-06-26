@@ -9,10 +9,14 @@ Oyunun ana mekaniği olan "delik efektini", yeri temsil eden bir Quad içerisind
 
 Bu aşamanın basamak basamak kod anlatımı ColliderTranslator.cs script'i içerisindedir.
 
-2.Seviyeler için basit bir design olsun diye farklı scene'ler kullanıyorum fakat Color Hole 3D oyununuzda aynı scene'in içerisinde birden fazla level var. Kullanılmayan ama yüklenmiş objelerde performans kazanmak için küplerin rigidbody'lerini layer aracılığı ile kapayıp, sadece deliğe yaklaştıklarında açıyorum.
+2.
+
+Seviyeler için basit bir design olsun diye farklı scene'ler kullanıyorum fakat Color Hole 3D oyununuzda aynı scene'in içerisinde birden fazla level var. Kullanılmayan ama yüklenmiş objelerde performans kazanmak için küplerin rigidbody'lerini layer aracılığı ile kapayıp, sadece deliğe yaklaştıklarında açıyorum.
 
 Objeler aynı zamanda düştükten sonra Destroy() ile yok ediliyorlar.
 
-3.Kontrol sistemi
+3.
+
+Kontrol sistemi
 
 Kontroller için kullandığım görsel asset paket: https://assetstore.unity.com/packages/p/joystick-pack-107631
